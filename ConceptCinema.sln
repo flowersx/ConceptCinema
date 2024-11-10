@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConceptCinema", "ConceptCinema\ConceptCinema.csproj", "{ACDA2DB2-EC61-4582-B126-360D05034662}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess", "DataAccess\DataAccess.csproj", "{F66E3500-AB9E-4FFE-A3D5-AB5D96B5A795}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models", "Models\Models.csproj", "{0B7F595C-4DEB-4E1B-9480-348832697929}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACDA2DB2-EC61-4582-B126-360D05034662}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACDA2DB2-EC61-4582-B126-360D05034662}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACDA2DB2-EC61-4582-B126-360D05034662}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACDA2DB2-EC61-4582-B126-360D05034662}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F66E3500-AB9E-4FFE-A3D5-AB5D96B5A795}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F66E3500-AB9E-4FFE-A3D5-AB5D96B5A795}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F66E3500-AB9E-4FFE-A3D5-AB5D96B5A795}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F66E3500-AB9E-4FFE-A3D5-AB5D96B5A795}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B7F595C-4DEB-4E1B-9480-348832697929}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B7F595C-4DEB-4E1B-9480-348832697929}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B7F595C-4DEB-4E1B-9480-348832697929}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B7F595C-4DEB-4E1B-9480-348832697929}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
